@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<viaggi>
+
+    <viaggio>
+        <id_viaggio>1</id_viaggio>
+        <destinazione>Kyoto</destinazione>
+    </viaggio>
+
+    <viaggio>
+        <id_viaggio>2</id_viaggio>
+        <destinazione>Bali</destinazione>
+    </viaggio>
+
+    <viaggio>
+        <id_viaggio>3</id_viaggio>
+        <destinazione>Reykjavik</destinazione>
+    </viaggio>
+
+    <viaggio>
+        <id_viaggio>4</id_viaggio>
+        <destinazione>Reykjavik</destinazione>
+    </viaggio>
+
+    <viaggio>
+        <id_viaggio>5</id_viaggio>
+        <destinazione>Los Angeles</destinazione>
+    </viaggio>
+
+</viaggi>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacchetti_bali xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="bali.xsd">
+
+  <pacchetto_bali id_bali="1">
+    <id_viaggio>2</id_viaggio>
+    <destinazione>Bali</destinazione>
+    <categoria>low cost</categoria>
+    <data_partenza>2027-05-04</data_partenza>
+    <data_rientro>2027-05-10</data_rientro>
+    <costo>500.00</costo>
+  </pacchetto_bali>
+
+</pacchetti_bali>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacchetti_reykjavik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                     xsi:noNamespaceSchemaLocation="reykjavik.xsd">
+
+    <pacchetto_reykjavik id_reykjavik="1">
+        <id_viaggio>3</id_viaggio>
+        <destinazione>Reykjavik</destinazione>
+        <categoria>low cost</categoria>
+        <data_partenza>2026-10-11</data_partenza>
+        <data_rientro>2026-10-16</data_rientro>
+        <costo>1000.00</costo>
+    </pacchetto_reykjavik>
+
+    <pacchetto_reykjavik id_reykjavik="2">
+        <id_viaggio>4</id_viaggio>
+        <destinazione>Reykjavik</destinazione>
+        <categoria>low cost</categoria>
+        <data_partenza>2027-04-04</data_partenza>
+        <data_rientro>2027-04-10</data_rientro>
+        <costo>500.00</costo>
+    </pacchetto_reykjavik>
+
+</pacchetti_reykjavik>

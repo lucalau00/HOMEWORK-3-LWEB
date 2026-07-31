@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacchetti_kyoto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="kyoto.xsd">
+
+  <pacchetto_kyoto id_kyoto="1">
+    <id_viaggio>1</id_viaggio>
+    <destinazione>Kyoto</destinazione>
+    <categoria>low cost</categoria>
+    <data_partenza>2026-03-03</data_partenza>
+    <data_rientro>2026-03-07</data_rientro>
+    <costo>1500.00</costo>
+  </pacchetto_kyoto>
+
+</pacchetti_kyoto>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacchetti_losangeles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="losangeles.xsd">
+
+    <pacchetto_losangeles id_losangeles="1">
+        <id_viaggio>5</id_viaggio>
+        <destinazione>Los Angeles</destinazione>
+        <categoria>low cost</categoria>
+        <data_partenza>2026-09-04</data_partenza>
+        <data_rientro>2027-09-10</data_rientro>
+        <costo>2000.00</costo>
+    </pacchetto_losangeles>
+
+</pacchetti_losangeles>

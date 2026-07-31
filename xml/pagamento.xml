@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagamenti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="pagamento.xsd">
+
+  <pagamento id_pagamento="11">
+    <data>2025-12-06</data>
+    <importo>1500.00</importo>
+    <esito>approvato</esito>
+    <id_cliente>2</id_cliente>
+  </pagamento>
+
+  <pagamento id_pagamento="12">
+    <data>2025-12-06</data>
+    <importo>1000.00</importo>
+    <esito>approvato</esito>
+    <id_cliente>2</id_cliente>
+  </pagamento>
+
+</pagamenti>

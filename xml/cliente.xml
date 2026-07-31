@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clienti>
+  <cliente id_cliente="1">
+    <cf>1234asfas</cf>
+    <nome>Luca</nome>
+    <cognome>Lauretti</cognome>
+    <data_nascita>2000-02-10</data_nascita>
+    <telefono>123124124</telefono>
+    <email>lauretti@gmail.com</email>
+  </cliente>
+</clienti>
